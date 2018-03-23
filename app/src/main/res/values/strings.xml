@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Simple_Calculator</string>
+    <string name="button10_send">sq</string>
+    <string name="button11_send">7</string>
+    <string name="button12_send">8</string>
+    <string name="button13_send">9</string>
+    <string name="button14_send">/</string>
+    <string name="button15_send">%</string>
+    <string name="button16_send">4</string>
+    <string name="button17_send">5</string>
+    <string name="button18_send">6</string>
+    <string name="button19_send">*</string>
+    <string name="button20_send">1/x</string>
+    <string name="button21_send">1</string>
+    <string name="button22_send">2</string>
+    <string name="button23_send">3</string>
+    <string name="button24_send">-</string>
+    <string name="button01_send">MC</string>
+    <string name="button02_send">MR</string>
+    <string name="button03_send">MS</string>
+    <string name="button04_send">M+</string>
+    <string name="button05_send">M-</string>
+    <string name="button06_send">del</string>
+    <string name="button07_send">CE</string>
+    <string name="button08_send">C</string>
+    <string name="button09_send">+-</string>
+    <string name="button25_send">=</string>
+    <string name="button26_send">0</string>
+    <string name="button27_send">.</string>
+    <string name="button28_send">+</string>
+</resources>
